@@ -1,0 +1,11 @@
+dias = ['LUNES','MARTES','MIERCOLES','JUEVES','VIERNES']
+cantidadlunes = int(input(''))
+print(f'El día {dias[0]} se vendieron {cantidadlunes} productos')
+cantidadmartes = int(input(''))
+print(f'El día {dias[1]} se vendieron {cantidadmartes} productos')
+cantidadmiercoles = int(input(''))
+print(f'El día {dias[2]} se vendieron {cantidadmiercoles} productos')
+cantidadjueves = int(input(''))
+print(f'El día {dias[3]} se vendieron {cantidadjueves} productos')
+cantidadviernes = int(input(''))
+print(f'El día {dias[4]} se vendieron {cantidadviernes} productos')
